@@ -1,0 +1,67 @@
+img{
+    max-width: 100%;
+}
+.header-bg{
+    background-color:#033D84;
+    height: 450px;
+}
+.header-bg.container{
+    padding-top: 10px;
+
+}
+.nav-item{
+    color: white;
+    
+}
+.y{
+    color: yellow;
+}
+.cg{
+    color: white;
+}
+.bgr{
+    color: yellowgreen;
+}
+
+.crd{
+    padding-top: 20px;
+    
+}
+
+.oc{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.oc {
+	padding: 15px;
+}
+.card-deck{
+    padding-top: 20px;
+    
+}
+.bt{
+    background-color: green;
+    border-radius: 10px;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+li a{
+    color: gray;
+}
+footer{
+    margin-top: 40px;
+}
+.ft{
+    background-color: black;
+    height: 200px;
+    padding-top: 20px;
+}
+.ft h3{
+    color:white;
+}
+.ft p{
+    color: whitesmoke;
+}
